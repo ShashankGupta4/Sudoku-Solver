@@ -1,4 +1,6 @@
-﻿namespace Sudoku_Solver
+﻿using SudokuSolverApp.Sudoku;
+
+namespace SudokuSolverApp
 {
     partial class Form1
     {
@@ -31,7 +33,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.sudokuBoard1 = new Sudoku_Solver.SudokuBoard();
+            this.sudokuBoard1 = new SudokuBoard();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 

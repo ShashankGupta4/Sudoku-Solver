@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Sudoku_Solver
+namespace SudokuSolverApp.Sudoku
 {
     public static class SudokuSolver
     {

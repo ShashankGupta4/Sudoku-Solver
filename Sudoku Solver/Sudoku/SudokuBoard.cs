@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Sudoku_Solver
+namespace SudokuSolverApp.Sudoku
 {
     public class SudokuBoard : Panel
     {

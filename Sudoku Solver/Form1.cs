@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Forms;
+using SudokuSolverApp.Sudoku;
 
-namespace Sudoku_Solver
+namespace SudokuSolverApp
 {
     public partial class Form1 : Form
     {
